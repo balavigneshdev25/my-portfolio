@@ -1,0 +1,63 @@
+{
+  "personalData": [
+    { "value": "3+ Y.", "label": "Experience" },
+    { "label": "Projects", "value": "15+" },
+    { "label": "Workplaces", "value": "2" }
+  ],
+
+  "aboutData": [
+    { "label": "Qualification", "value": "MCA" },
+    { "label": "Date of Birth", "value": "November 11, 1998" },
+    { "label": "Language Known", "value": "Tamil,English" },
+    { "label": "Hobbies", "value": "Codding,Sports,Travel,Music" },
+    { "label": "Email", "value": "balavignesh.dev25@gmail.com" },
+    { "label": "Phone", "value": "+91 9751950693" },
+    { "label": "Address", "value": "Perumpannaiyur, Thirvarur(Dt)" },
+    { "label": "ZipCode", "value": "612 603" }
+  ],
+  "skills": [
+    { "label": "Html&Css", "value": 98 },
+    { "label": "Js (ES6)", "value": 96 },
+    { "label": "React Js", "value": 92 },
+    { "label": "Next Js", "value": 88 },
+    { "label": "Tailwind Css", "value": 85 },
+    { "label": "Rest APIs", "value": 90 },
+    { "label": "Tools", "value": 85 },
+    { "label": "Debugging", "value": 85 },
+    { "label": "Back End", "value": 45 }
+  ],
+  "experiences": [
+    {
+      "duration": "may 2025 - jul 2025",
+      "role": "Senior Developer",
+      "company": "Dcomm Venture (P) Ltd",
+      "location": "Chennai",
+      "des1": "As a Senior Developer, I craft modern eCommerce experiences using BigCommerce and Catalyst.I focus on building engaging and high-performing features such as Product Listing (PLP) and Product Detail (PDP) pages.Along with this, I develop cart and wishlist functionalities that ensure smooth user interactions.Every element I build is aimed at delivering a seamless and intuitive shopping experience.",
+      "des2": "I’m deeply committed to performance optimization, accessibility, and responsive design.By writing clean, scalable code, I enhance both speed and usability across all devices.I pay close attention to detail, ensuring consistency in layout and user experience.My goal is to blend functionality and design to create digital experiences that truly stand out."
+    },
+    {
+      "duration": "mar 2022 - feb 2025",
+      "role": "Associate Software Engineer",
+      "company": "katomaran technologies (P) Ltd",
+      "location": "Coimbatore",
+      "des1": "As a Associate Software Engineer, I focus on creating responsive, high-performance web applications that combine clean code with engaging design.I work extensively with React.js, Next.js, and Redux to build scalable, maintainable, and efficient interfaces.My development approach blends modern UI/UX principles with strong technical precision.Every component I craft is designed to deliver a smooth and seamless user experience.",
+      "des2": "I’m passionate about building digital experiences that are fast, accessible, and visually consistent across all devices.By following best practices in performance optimization and design systems, I ensure long-term scalability.I value clarity, reusability, and structure in every line of code I write.Through this approach, I bring both creativity and functionality together to create exceptional web experiences.S"
+    }
+  ],
+   "education": [
+    {
+      "duration": "jul 2019 - may 2021",
+      "degree": "Master of Computer Application - (MCA)",
+      "college": "SASTRA deemed University",
+      "location": "Tanjore",
+      "class":"First Class"
+    },
+     {
+      "duration": "jul 2016 - may 2019",
+      "degree": "Bachelor of Computer Application - (BCA)",
+      "college": "Swami Dayananda College of Aarts & Science",
+      "location": "Thiruvarur",
+      "class":"First Class"
+    }
+  ]
+}

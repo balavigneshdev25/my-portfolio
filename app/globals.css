@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-work-sans), sans-serif;
+}
+
+.nav-item {
+  @apply hover:cursor-pointer hover:bg-[#D9DADD] hover:text-[#A53BFE]
+         hover:scale-105 transition-all duration-300 ease-in-out p-2 rounded-md py-2;
+}
+
+.CircularProgressbar-text {
+  dominant-baseline: middle;
+  text-anchor: middle;
+}
