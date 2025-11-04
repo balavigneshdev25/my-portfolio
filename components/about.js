@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useEffect, useState } from "react";
-import { FaInstagram, FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaInstagram, FaGithub, FaLinkedin, FaWhatsapp } from "react-icons/fa";
 import { FaDownload } from "react-icons/fa6";
 
 const LinksIcons = [
@@ -11,6 +11,10 @@ const LinksIcons = [
     link: "https://www.linkedin.com/in/balavignesh-a-ab292422b/",
   },
   { Icon: FaGithub, link: "https://github.com/balavigneshdev25" },
+  {
+    Icon: FaWhatsapp,
+    link: "https://wa.me/919751950693",
+  },
   {
     Icon: FaInstagram,
     link: "https://www.instagram.com/jerseyno11__boy__?igsh=cXB3cHZlZGZxd3g0",

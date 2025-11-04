@@ -71,7 +71,7 @@ function Contact() {
                 key={i}
                 className="flex items-center gap-4 p-4 bg-white shadow-md rounded-xl transition-transform hover:scale-[1.02]"
               >
-                <div className="flex items-center justify-center w-12 h-12 rounded-xl bg-[#F1E4FF] text-2xl">
+                <div className="flex items-center justify-center w-12 h-12 rounded-xl md:bg-[#F1E4FF] text-2xl">
                   {item?.icon}
                 </div>
                 <div className="flex flex-col">

@@ -8,7 +8,7 @@ function Summary() {
           Summary
         </h2>
       </div>
-      <div className="container mx-auto bg-[#9929fb] shadow-2xl rounded-2xl  items-center md:items-start gap-1 md:px-14 lg:px-14 py-2 px-2 md:py-4">
+      <div className="container mx-auto bg-[#9929fb] shadow-2xl rounded-2xl  items-center md:items-start gap-1 md:px-14 lg:px-14 py-4 px-4 md:py-4">
         <p className="text-white text-sm sm:text-base lg:text-lg">
           As a seasoned <b>Front-End Developer,</b>  I bring over three and a half years
           of expertise in crafting responsive and scalable web applications
